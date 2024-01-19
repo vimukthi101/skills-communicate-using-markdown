@@ -41,7 +41,7 @@ code
 
 ```java
 public class Hello {
-   public void hello(){
+   public void hello(){ 
      String.out.print("hello");
     }
 }
