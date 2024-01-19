@@ -5,6 +5,9 @@
 ##### this is a h5 header
 ###### this is a h6 header
 
+***this is bold italic***
+___this is also same as above___
+
 this ia *italic* and more _italic_
 this is **bold** and more **bold**\
 this is \* skipped \*
